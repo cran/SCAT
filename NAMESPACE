@@ -1,0 +1,4 @@
+#exportPattern("^[[:alpha:]]+")
+import(stats, utils)
+useDynLib(SCAT, .registration = TRUE)
+export(scat, read.bed)
