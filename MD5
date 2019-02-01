@@ -1,4 +1,4 @@
-6f7e43c437085eb24fe9e9722592dab7 *DESCRIPTION
+b4e472595af846cd82958b5d1a8d408a *DESCRIPTION
 b07c90ec038725d2c41069d5ad82ea4c *NAMESPACE
 b294f53a2fd2ee06c0f3aaa71ca2ef2d *R/cond.test.R
 b54091afdddd0f506251f409da07eaab *R/convert.header.R
@@ -6,13 +6,13 @@ b54091afdddd0f506251f409da07eaab *R/convert.header.R
 97ba84ce0f9206ef88e18cbd8db639ca *R/extract.conflictive.snps.R
 62ce5bdae2c983b805bc9221a462cdf8 *R/extract.reference.allele.R
 d31c5e80f56096235d4b26f268a57d97 *R/load.reference.info.R
-0af362d208992f7f08360f472df0ebba *R/load.summary.files.R
+f7db1d26a6effdd2cdf3ed2dccb185a1 *R/load.summary.files.R
 95ff13468b3ffe180917d282cd1687cf *R/merge.stat.R
 dffd8d3a1f82758763bc24a97452299d *R/meta.R
 1eb995eb6db6683b2f612e9c5fea02d5 *R/onAttach.R
 a3838e5ae94308af3540336e8babb35f *R/parse.model.R
 c20bfb26c423297b48a54c1bf58a920c *R/read.bed.R
-4c0e8279c841cc0c8e27c1fa4c122b3d *R/recover.stat.R
+6c9e2fccd54f8f4a02c1b024ac12b360 *R/recover.stat.R
 4671444bdbfca9f8916c762ae8bccdb2 *R/reformat.reference.path.R
 8bc61093e6eeaf0c919e388e6d484b87 *R/remove.conflictive.snps.R
 bf73539cc6e42e96d57608848d7651bd *R/scat.R
@@ -26,6 +26,8 @@ bf73539cc6e42e96d57608848d7651bd *R/scat.R
 437122dc3e96167cdfecdfb1114b7626 *R/validate.summary.files.R
 4ff3c792ecda0b589702735b66e6d817 *README.md
 e66900a0e679a19b0c32de56a9a33366 *cleanup
+cb6fc3bfc117cef6e28f9089836dcce4 *configure
+c9c89b203d558242f39d5263edf120cb *configure.ac
 1280c902f7dccc56b4d8036bda031d2b *inst/extdata/chr5.bed
 325138d41ef75a18196263cd9a8b2f26 *inst/extdata/chr5.bim
 7dc68f97189d131278b1e3c39951dbf4 *inst/extdata/chr5.fam
@@ -35,8 +37,8 @@ bb1f0d90693ce696e423caf68c2ba4d9 *inst/extdata/chr8.bim
 079461f5c923af937f8dcbe3c03e243a *inst/extdata/study1.txt.gz
 3136f3676df557d8bebaaccf1c702e04 *inst/extdata/study2.txt.gz
 2cad2679fc3e4a2eb42f2ec74b85de34 *man/read.bed.Rd
-89617592c50a6b88afb98145e4cab7a6 *man/scat.Rd
-1aedf0bbf5ec889f151780cf69e3857f *src/Makevars.in
+68dbfdbe979d3d77033baee9feb27f50 *man/scat.Rd
+e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars.in
 e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars.win
 8e5df7dbbec1935a78384f8f615af2d8 *src/ReadBED.cpp
 ddcce1a5298e8f1d3ea8243d20a84a07 *src/SCAT_init.c
